@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/franka_msgs/share/roseus/ros/franka_msgs/srv/SetFullCollisionBehavior.l

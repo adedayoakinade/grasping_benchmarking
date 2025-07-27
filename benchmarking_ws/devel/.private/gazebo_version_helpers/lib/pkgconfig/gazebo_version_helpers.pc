@@ -1,0 +1,8 @@
+prefix=/root/grasping_benchmarking/benchmarking_ws/devel/.private/gazebo_version_helpers
+
+Name: gazebo_version_helpers
+Description: Description of gazebo_version_helpers
+Version: 0.0.0
+Cflags: -I/root/grasping_benchmarking/benchmarking_ws/src/benchmarking_vision_based_grasping/grasp_plugin/gazebo-pkgs/gazebo_version_helpers/include
+Libs: -L${prefix}/lib -lgazebo_version_helpers
+Requires: gazebo_ros roscpp

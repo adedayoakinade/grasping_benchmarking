@@ -1,0 +1,8 @@
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/pick_and_place/cmake/pick_and_placeConfig.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/pick_and_place/cmake/pick_and_place-msg-extras.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/pick_and_place/cmake/pick_and_placeConfig-version.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/pick_and_place/cmake/pick_and_place-msg-paths.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/roseus/ros/pick_and_place/manifest.l
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/pkgconfig/pick_and_place.pc
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/python3/dist-packages/pick_and_place/__init__.py
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/python3/dist-packages/pick_and_place_module/__init__.py

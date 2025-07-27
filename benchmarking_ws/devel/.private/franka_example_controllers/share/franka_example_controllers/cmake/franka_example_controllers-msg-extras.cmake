@@ -1,0 +1,2 @@
+set(franka_example_controllers_MESSAGE_FILES "/root/grasping_benchmarking/benchmarking_ws/src/benchmarking_vision_based_grasping/franka_ros/franka_example_controllers/msg/JointTorqueComparison.msg")
+set(franka_example_controllers_SERVICE_FILES "")

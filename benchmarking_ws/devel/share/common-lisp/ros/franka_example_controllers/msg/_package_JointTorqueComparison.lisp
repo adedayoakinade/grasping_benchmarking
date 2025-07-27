@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/franka_example_controllers/share/common-lisp/ros/franka_example_controllers/msg/_package_JointTorqueComparison.lisp

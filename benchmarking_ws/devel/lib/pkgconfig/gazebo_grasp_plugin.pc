@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/gazebo_grasp_plugin/lib/pkgconfig/gazebo_grasp_plugin.pc

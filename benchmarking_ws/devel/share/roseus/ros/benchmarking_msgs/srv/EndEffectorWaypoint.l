@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/benchmarking_msgs/share/roseus/ros/benchmarking_msgs/srv/EndEffectorWaypoint.l

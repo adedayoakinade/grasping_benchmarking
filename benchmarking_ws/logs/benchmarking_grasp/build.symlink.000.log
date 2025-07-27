@@ -1,0 +1,7 @@
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/benchmarking_grasp/cmake/benchmarking_graspConfig-version.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/share/benchmarking_grasp/cmake/benchmarking_graspConfig.cmake
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/benchmarking_grasp/apply_point_cloud_roi
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/benchmarking_grasp/get_point_cloud_roi
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/pkgconfig/benchmarking_grasp.pc
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/python3/dist-packages/benchmarking_pipeline_module/__init__.py
+Symlinking /root/grasping_benchmarking/benchmarking_ws/devel/lib/python3/dist-packages/grasp_transform_module/__init__.py

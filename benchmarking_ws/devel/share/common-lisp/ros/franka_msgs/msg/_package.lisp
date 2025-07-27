@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/franka_msgs/share/common-lisp/ros/franka_msgs/msg/_package.lisp

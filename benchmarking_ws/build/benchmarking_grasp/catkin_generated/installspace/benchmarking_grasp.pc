@@ -1,0 +1,8 @@
+prefix=/root/grasping_benchmarking/benchmarking_ws/install
+
+Name: benchmarking_grasp
+Description: Description of benchmarking_grasp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

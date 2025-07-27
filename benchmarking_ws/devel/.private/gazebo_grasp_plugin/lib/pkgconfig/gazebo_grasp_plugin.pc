@@ -1,0 +1,8 @@
+prefix=/root/grasping_benchmarking/benchmarking_ws/devel/.private/gazebo_grasp_plugin
+
+Name: gazebo_grasp_plugin
+Description: Description of gazebo_grasp_plugin
+Version: 1.0.2
+Cflags: -I/root/grasping_benchmarking/benchmarking_ws/src/benchmarking_vision_based_grasping/grasp_plugin/gazebo-pkgs/gazebo_grasp_plugin/include -I/root/grasping_benchmarking/benchmarking_ws/build/gazebo_grasp_plugin/..
+Libs: -L${prefix}/lib -lgazebo_grasp_fix -lgazebo_grasp_msgs
+Requires: gazebo_ros geometry_msgs roscpp std_msgs gazebo_version_helpers

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/franka_gripper/share/franka_gripper/msg/MoveActionResult.msg

@@ -1,0 +1,6 @@
+devel_space: /root/grasping_benchmarking/benchmarking_ws/devel
+install: false
+install_space: /root/grasping_benchmarking/benchmarking_ws/install
+profile: default
+source_space: /root/grasping_benchmarking/benchmarking_ws/src
+workspace: /root/grasping_benchmarking/benchmarking_ws

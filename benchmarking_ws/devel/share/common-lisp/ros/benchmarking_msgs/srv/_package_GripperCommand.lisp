@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/benchmarking_msgs/share/common-lisp/ros/benchmarking_msgs/srv/_package_GripperCommand.lisp

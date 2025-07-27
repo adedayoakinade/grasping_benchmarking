@@ -1,0 +1,15 @@
+Experiment,Trial,Object,Pose,Score,Inference Time
+0,0,tennis_ball,0,3,4.14e+16
+0,0,tennis_ball,1,3,2.77e+16
+0,0,tennis_ball,2,3,2.31e+16
+0,0,tennis_ball,3,3,3.2e+16
+0,0,tennis_ball,4,3,2.25e+16
+0,0,tennis_ball,5,3,3.81e+16
+0,0,flat_screwdriver,0,0,3.33e+16
+0,0,flat_screwdriver,1,0,3.06e+16
+0,0,flat_screwdriver,2,0,3.85e+16
+0,0,flat_screwdriver,3,0,3.31e+16
+0,0,flat_screwdriver,4,3,3.39e+16
+0,0,flat_screwdriver,5,3,2.67e+16
+0,0,medium_clamp,0,3,3.72e+16
+0,0,medium_clamp,1,3,3.12e+16

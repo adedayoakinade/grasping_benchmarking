@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/grasping_benchmarking/benchmarking_ws/devel/.private/gazebo_grasp_plugin_ros/setup.sh

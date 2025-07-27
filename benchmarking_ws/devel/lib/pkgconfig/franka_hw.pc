@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/benchmarking_ws/devel/.private/franka_hw/lib/pkgconfig/franka_hw.pc

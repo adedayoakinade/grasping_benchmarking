@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target apply_point_cloud_roi[0m
+[35m[1mScanning dependencies of target get_point_cloud_roi[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/apply_point_cloud_roi.dir/scripts/apply_point_cloud_roi.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/get_point_cloud_roi.dir/scripts/get_point_cloud_roi.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /root/grasping_benchmarking/benchmarking_ws/devel/.private/benchmarking_grasp/lib/benchmarking_grasp/apply_point_cloud_roi[0m
+[100%] [32m[1mLinking CXX executable /root/grasping_benchmarking/benchmarking_ws/devel/.private/benchmarking_grasp/lib/benchmarking_grasp/get_point_cloud_roi[0m
+[100%] Built target apply_point_cloud_roi
+[100%] Built target get_point_cloud_roi

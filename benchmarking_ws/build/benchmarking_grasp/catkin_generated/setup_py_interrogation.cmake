@@ -1,0 +1,7 @@
+set(benchmarking_grasp_SETUP_PY_SETUP_MODULE "setuptools")
+set(benchmarking_grasp_SETUP_PY_VERSION "0.0.0")
+set(benchmarking_grasp_SETUP_PY_SCRIPTS "")
+set(benchmarking_grasp_SETUP_PY_PACKAGES "benchmarking_pipeline_module;grasp_transform_module")
+set(benchmarking_grasp_SETUP_PY_PACKAGE_DIRS "src/benchmarking_pipeline_module;src/grasp_transform_module")
+set(benchmarking_grasp_SETUP_PY_MODULES "")
+set(benchmarking_grasp_SETUP_PY_MODULE_DIRS "")
