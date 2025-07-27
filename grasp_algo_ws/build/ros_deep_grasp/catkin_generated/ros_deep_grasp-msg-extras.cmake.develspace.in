@@ -1,0 +1,2 @@
+set(ros_deep_grasp_MESSAGE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ros_deep_grasp/msg/Grasp.msg;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ros_deep_grasp/msg/Grasp2D.msg")
+set(ros_deep_grasp_SERVICE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ros_deep_grasp/srv/GraspPrediction.srv;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ros_deep_grasp/srv/Grasp2DPrediction.srv")

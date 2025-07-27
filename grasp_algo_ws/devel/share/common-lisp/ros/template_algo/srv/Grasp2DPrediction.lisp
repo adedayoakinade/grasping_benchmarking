@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/template_algo/share/common-lisp/ros/template_algo/srv/Grasp2DPrediction.lisp

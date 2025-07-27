@@ -1,0 +1,8 @@
+prefix=/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ros_deep_grasp
+
+Name: ros_deep_grasp
+Description: Description of ros_deep_grasp
+Version: 0.0.0
+Cflags: -I/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ros_deep_grasp/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

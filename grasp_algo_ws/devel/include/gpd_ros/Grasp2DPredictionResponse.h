@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/include/gpd_ros/Grasp2DPredictionResponse.h

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/share/common-lisp/ros/mask_based_algo/srv/mask_based_algo-srv.asd

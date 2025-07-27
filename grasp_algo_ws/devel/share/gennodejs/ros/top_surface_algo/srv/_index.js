@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/top_surface_algo/share/gennodejs/ros/top_surface_algo/srv/_index.js

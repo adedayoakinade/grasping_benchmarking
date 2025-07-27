@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ggcnn/share/roseus/ros/ggcnn/srv/GraspPrediction.l

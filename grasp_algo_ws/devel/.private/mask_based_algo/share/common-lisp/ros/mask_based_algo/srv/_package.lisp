@@ -1,0 +1,10 @@
+(cl:defpackage mask_based_algo-srv
+  (:use )
+  (:export
+   "GRASP2DPREDICTION"
+   "<GRASP2DPREDICTION-REQUEST>"
+   "GRASP2DPREDICTION-REQUEST"
+   "<GRASP2DPREDICTION-RESPONSE>"
+   "GRASP2DPREDICTION-RESPONSE"
+  ))
+

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ggcnn/lib/python3/dist-packages/ggcnn/__init__.py

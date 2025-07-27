@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/share/gennodejs/ros/gpd_ros/srv/Grasp2DPrediction.js

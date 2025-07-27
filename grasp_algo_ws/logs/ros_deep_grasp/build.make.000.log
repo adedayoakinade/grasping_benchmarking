@@ -1,0 +1,73 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _ros_deep_grasp_generate_messages_check_deps_Grasp2D[0m
+[35m[1mScanning dependencies of target _ros_deep_grasp_generate_messages_check_deps_Grasp[0m
+[35m[1mScanning dependencies of target _ros_deep_grasp_generate_messages_check_deps_Grasp2DPrediction[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _ros_deep_grasp_generate_messages_check_deps_GraspPrediction[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target _ros_deep_grasp_generate_messages_check_deps_Grasp2DPrediction
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _ros_deep_grasp_generate_messages_check_deps_Grasp2D
+[  0%] Built target _ros_deep_grasp_generate_messages_check_deps_GraspPrediction
+[  0%] Built target _ros_deep_grasp_generate_messages_check_deps_Grasp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages_py[0m
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages_nodejs[0m
+[  4%] [34m[1mGenerating Python from MSG ros_deep_grasp/Grasp[0m
+[  8%] [34m[1mGenerating C++ code from ros_deep_grasp/Grasp.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from ros_deep_grasp/Grasp.msg[0m
+[ 17%] [34m[1mGenerating EusLisp code from ros_deep_grasp/Grasp.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from ros_deep_grasp/Grasp.msg[0m
+[ 26%] [34m[1mGenerating C++ code from ros_deep_grasp/Grasp2DPrediction.srv[0m
+[ 30%] [34m[1mGenerating C++ code from ros_deep_grasp/GraspPrediction.srv[0m
+[ 34%] [34m[1mGenerating C++ code from ros_deep_grasp/Grasp2D.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from ros_deep_grasp/Grasp2D.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from ros_deep_grasp/GraspPrediction.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from ros_deep_grasp/Grasp2D.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from ros_deep_grasp/Grasp2DPrediction.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from ros_deep_grasp/GraspPrediction.srv[0m
+[ 60%] [34m[1mGenerating EusLisp code from ros_deep_grasp/Grasp2D.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from ros_deep_grasp/GraspPrediction.srv[0m
+[ 69%] [34m[1mGenerating Python from MSG ros_deep_grasp/Grasp2D[0m
+[ 73%] [34m[1mGenerating EusLisp code from ros_deep_grasp/Grasp2DPrediction.srv[0m
+[ 78%] [34m[1mGenerating Lisp code from ros_deep_grasp/Grasp2DPrediction.srv[0m
+[ 82%] [34m[1mGenerating EusLisp manifest code for ros_deep_grasp[0m
+[ 82%] Built target ros_deep_grasp_generate_messages_nodejs
+[ 86%] [34m[1mGenerating Python code from SRV ros_deep_grasp/GraspPrediction[0m
+[ 86%] Built target ros_deep_grasp_generate_messages_cpp
+[ 91%] [34m[1mGenerating Python code from SRV ros_deep_grasp/Grasp2DPrediction[0m
+[ 91%] Built target ros_deep_grasp_generate_messages_lisp
+[ 95%] [34m[1mGenerating Python msg __init__.py for ros_deep_grasp[0m
+[100%] [34m[1mGenerating Python srv __init__.py for ros_deep_grasp[0m
+[100%] Built target ros_deep_grasp_generate_messages_py
+[100%] Built target ros_deep_grasp_generate_messages_eus
+[35m[1mScanning dependencies of target ros_deep_grasp_generate_messages[0m
+[100%] Built target ros_deep_grasp_generate_messages

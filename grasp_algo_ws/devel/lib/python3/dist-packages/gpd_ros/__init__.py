@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/lib/python3/dist-packages/gpd_ros/__init__.py

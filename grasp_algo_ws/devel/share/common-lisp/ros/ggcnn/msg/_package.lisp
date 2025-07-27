@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ggcnn/share/common-lisp/ros/ggcnn/msg/_package.lisp

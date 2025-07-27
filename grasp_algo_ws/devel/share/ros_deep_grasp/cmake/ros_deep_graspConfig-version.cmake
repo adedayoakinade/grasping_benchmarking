@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ros_deep_grasp/share/ros_deep_grasp/cmake/ros_deep_graspConfig-version.cmake

@@ -1,0 +1,60 @@
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _top_surface_algo_generate_messages_check_deps_EFDGrasp
+[  0%] Built target _top_surface_algo_generate_messages_check_deps_Grasp
+[  0%] Built target _top_surface_algo_generate_messages_check_deps_GraspPrediction
+[35m[1mScanning dependencies of target grasp_synthesis[0m
+[  5%] [34m[1mGenerating C++ code from top_surface_algo/GraspPrediction.srv[0m
+[ 10%] [34m[1mGenerating C++ code from top_surface_algo/Grasp.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG top_surface_algo/Grasp[0m
+[ 25%] [34m[1mGenerating Lisp code from top_surface_algo/Grasp.msg[0m
+[ 25%] [34m[1mGenerating C++ code from top_surface_algo/EFDGrasp.srv[0m
+[ 30%] [34m[1mGenerating Javascript code from top_surface_algo/Grasp.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from top_surface_algo/Grasp.msg[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/grasp_synthesis.dir/scripts/grasp_synthesis.cpp.o[0m
+[ 45%] [34m[1mGenerating Javascript code from top_surface_algo/GraspPrediction.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from top_surface_algo/GraspPrediction.srv[0m
+[ 55%] [34m[1mGenerating Javascript code from top_surface_algo/EFDGrasp.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from top_surface_algo/EFDGrasp.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from top_surface_algo/GraspPrediction.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV top_surface_algo/GraspPrediction[0m
+[ 70%] Built target top_surface_algo_generate_messages_nodejs
+[ 75%] [34m[1mGenerating EusLisp code from top_surface_algo/EFDGrasp.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV top_surface_algo/EFDGrasp[0m
+[ 80%] Built target top_surface_algo_generate_messages_lisp
+[ 80%] Built target top_surface_algo_generate_messages_cpp
+[ 85%] Built target top_surface_algo_generate_messages_eus
+[ 90%] [34m[1mGenerating Python msg __init__.py for top_surface_algo[0m
+[ 95%] [34m[1mGenerating Python srv __init__.py for top_surface_algo[0m
+[ 95%] Built target top_surface_algo_generate_messages_py
+[ 95%] Built target top_surface_algo_generate_messages
+[100%] [32m[1mLinking CXX executable /root/grasping_benchmarking/grasp_algo_ws/devel/.private/top_surface_algo/lib/top_surface_algo/grasp_synthesis[0m
+[100%] Built target grasp_synthesis

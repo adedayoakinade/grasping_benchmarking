@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/share/roseus/ros/gpd_ros/msg/CloudIndexed.l

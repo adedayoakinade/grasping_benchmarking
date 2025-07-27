@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/share/common-lisp/ros/gpd_ros/msg/_package_Grasp2D.lisp

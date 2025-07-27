@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/setup.sh

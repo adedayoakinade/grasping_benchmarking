@@ -1,0 +1,2 @@
+set(ggcnn_MESSAGE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ggcnn/msg/Grasp.msg;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ggcnn/msg/Grasp2D.msg")
+set(ggcnn_SERVICE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ggcnn/srv/GraspPrediction.srv;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/ggcnn/srv/Grasp2DPrediction.srv")

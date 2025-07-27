@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+# generated from catkin/python/catkin/environment_cache.py
+
+# based on a snapshot of the environment before and after calling the setup script
+# it emulates the modifications of the setup script without recurring computations
+
+# new environment variables
+
+# modified environment variables
+export CMAKE_PREFIX_PATH="/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD='/root/grasping_benchmarking/grasp_algo_ws/build/mask_based_algo'
+export PYTHONPATH="/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/lib/python3/dist-packages:$PYTHONPATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/mask_based_algo:$ROS_PACKAGE_PATH"

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ggcnn/share/gennodejs/ros/ggcnn/srv/_index.js

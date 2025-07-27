@@ -1,0 +1,2 @@
+set(template_algo_MESSAGE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/template_algo/msg/Grasp.msg;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/template_algo/msg/Grasp2D.msg")
+set(template_algo_SERVICE_FILES "/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/template_algo/srv/GraspPrediction.srv;/root/grasping_benchmarking/grasp_algo_ws/src/grasp_synthesis/template_algo/srv/Grasp2DPrediction.srv")

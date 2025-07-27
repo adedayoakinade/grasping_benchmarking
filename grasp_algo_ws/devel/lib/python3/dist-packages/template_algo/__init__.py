@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/template_algo/lib/python3/dist-packages/template_algo/__init__.py

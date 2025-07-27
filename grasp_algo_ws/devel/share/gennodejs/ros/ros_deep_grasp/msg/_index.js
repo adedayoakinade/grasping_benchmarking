@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/ros_deep_grasp/share/gennodejs/ros/ros_deep_grasp/msg/_index.js

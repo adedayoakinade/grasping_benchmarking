@@ -1,0 +1,21 @@
+(cl:defpackage gpd_ros-msg
+  (:use )
+  (:export
+   "<CLOUDINDEXED>"
+   "CLOUDINDEXED"
+   "<CLOUDSAMPLES>"
+   "CLOUDSAMPLES"
+   "<CLOUDSOURCES>"
+   "CLOUDSOURCES"
+   "<GRASP>"
+   "GRASP"
+   "<GRASP2D>"
+   "GRASP2D"
+   "<GRASPCONFIG>"
+   "GRASPCONFIG"
+   "<GRASPCONFIGLIST>"
+   "GRASPCONFIGLIST"
+   "<SAMPLESMSG>"
+   "SAMPLESMSG"
+  ))
+

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/gpd_ros/share/gpd_ros/cmake/gpd_ros-msg-extras.cmake

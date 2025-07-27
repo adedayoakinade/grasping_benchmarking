@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/grasp_algo_ws/devel/.private/mask_based_algo/share/gennodejs/ros/mask_based_algo/_index.js

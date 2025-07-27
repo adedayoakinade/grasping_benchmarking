@@ -1,0 +1,7 @@
+set(mask_based_algo_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mask_based_algo_SETUP_PY_VERSION "0.0.0")
+set(mask_based_algo_SETUP_PY_SCRIPTS "")
+set(mask_based_algo_SETUP_PY_PACKAGES "mask_based_algo_module")
+set(mask_based_algo_SETUP_PY_PACKAGE_DIRS "src/mask_based_algo_module")
+set(mask_based_algo_SETUP_PY_MODULES "")
+set(mask_based_algo_SETUP_PY_MODULE_DIRS "")
