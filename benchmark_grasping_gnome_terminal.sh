@@ -9,7 +9,7 @@ gnome-terminal --window -- bash -c "source venv/bin/activate; source /opt/ros/$R
 sleep 5
 
 # # First terminal window (Single tab)
-gnome-terminal --window -- bash -c "source ./venv/bin/activate; source /opt/ros/$ROS_DISTRO/setup.bash; cd ./panda_sim_ws; source devel/setup.bash; roslaunch panda_simulation panda_simulation.launch; exec bash"
+gnome-terminal --window -- bash -c "source ./venv/bin/activate; source /opt/ros/$ROS_DISTRO/setup.bash; cd ./panda_sim_ws; source devel/setup.bash; roslaunch panda_simulation panda_simulation.launch sim_mode:=true; exec bash"
 
 # Wait 10 seconds before launching the next window
 sleep 30
