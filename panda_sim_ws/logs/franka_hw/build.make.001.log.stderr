@@ -1,0 +1,4 @@
+[01m[K/root/grasping_benchmarking/panda_sim_ws/src/panda_simulation/franka_ros/franka_hw/src/franka_hw.cpp:[m[K In function ‘[01m[Kstd::ostream& franka_hw::{anonymous}::operator<<(std::ostream&, franka::ControllerMode)[m[K’:
+[01m[K/root/grasping_benchmarking/panda_sim_ws/src/panda_simulation/franka_ros/franka_hw/src/franka_hw.cpp:25:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   25 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

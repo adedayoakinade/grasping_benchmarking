@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/franka_example_controllers/share/roseus/ros/franka_example_controllers/msg/JointTorqueComparison.l

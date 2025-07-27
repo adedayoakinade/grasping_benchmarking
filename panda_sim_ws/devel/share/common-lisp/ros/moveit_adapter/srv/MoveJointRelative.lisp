@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/moveit_adapter/share/common-lisp/ros/moveit_adapter/srv/MoveJointRelative.lisp

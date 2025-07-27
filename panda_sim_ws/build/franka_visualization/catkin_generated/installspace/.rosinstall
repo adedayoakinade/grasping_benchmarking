@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/grasping_benchmarking/panda_sim_ws/install/setup.sh

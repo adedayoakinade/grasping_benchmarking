@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fpermissive   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/root/grasping_benchmarking/panda_sim_ws/build/panda_simulation/gtest/lib ../lib/libgtest.so -lpthread 

@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/franka_gripper/share/franka_gripper/cmake/franka_gripper-msg-extras.cmake

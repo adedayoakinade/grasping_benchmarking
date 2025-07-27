@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/franka_msgs/share/common-lisp/ros/franka_msgs/msg/_package_FrankaState.lisp

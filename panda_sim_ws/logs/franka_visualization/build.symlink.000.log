@@ -1,0 +1,5 @@
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/franka_visualization/cmake/franka_visualizationConfig.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/franka_visualization/cmake/franka_visualizationConfig-version.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/pkgconfig/franka_visualization.pc
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/franka_visualization/gripper_joint_state_publisher
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/franka_visualization/robot_joint_state_publisher

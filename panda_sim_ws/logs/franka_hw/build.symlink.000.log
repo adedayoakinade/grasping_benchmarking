@@ -1,0 +1,4 @@
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/franka_hw/cmake/franka_hwConfig-version.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/franka_hw/cmake/franka_hwConfig.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/libfranka_hw.so
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/pkgconfig/franka_hw.pc

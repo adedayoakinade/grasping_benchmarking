@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/catkin_tools_prebuild/local_setup.sh

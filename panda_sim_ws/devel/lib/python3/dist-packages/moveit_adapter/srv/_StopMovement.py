@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/moveit_adapter/lib/python3/dist-packages/moveit_adapter/srv/_StopMovement.py

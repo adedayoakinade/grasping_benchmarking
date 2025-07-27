@@ -1,0 +1,7 @@
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/panda_simulation/cmake/panda_simulationConfig.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/share/panda_simulation/cmake/panda_simulationConfig-version.cmake
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/libpanda_simulation_controllers_lib.so
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/pkgconfig/panda_simulation.pc
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/panda_simulation/robot_state_initializer_node
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/panda_simulation/box_publisher_node
+Symlinking /root/grasping_benchmarking/panda_sim_ws/devel/lib/panda_simulation/robot_control_node

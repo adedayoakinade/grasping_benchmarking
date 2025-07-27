@@ -1,0 +1,1 @@
+/root/grasping_benchmarking/panda_sim_ws/devel/.private/gazebo_grasp_plugin_ros/share/roseus/ros/gazebo_grasp_plugin_ros/manifest.l

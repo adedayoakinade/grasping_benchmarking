@@ -1,0 +1,6 @@
+devel_space: /root/grasping_benchmarking/panda_sim_ws/devel
+install: false
+install_space: /root/grasping_benchmarking/panda_sim_ws/install
+profile: default
+source_space: /root/grasping_benchmarking/panda_sim_ws/src
+workspace: /root/grasping_benchmarking/panda_sim_ws
